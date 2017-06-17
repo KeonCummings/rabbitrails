@@ -5,6 +5,9 @@ Rails.application.routes.draw do
 
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
   get 'index', to: 'static_pages#index'
+  get 'updatemenu', to: 'static_pages#updatemenu'
+  post 'updatemenu', to: 'static_pages#upload'
+  get 'menu' , to: 'static_pages#menu'
 
   get 'signup', to: 'users#new', as: :signup
   post '/signup',  to: 'users#create'
