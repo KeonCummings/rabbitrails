@@ -1,4 +1,6 @@
 class StaticPagesController < ApplicationController
+	include StaticPagesHelper
+
 	def index
 	end
 
@@ -6,18 +8,20 @@ class StaticPagesController < ApplicationController
 	end
 
 	def menu
-		@files = Dir.glob(Rails.root.join('app/assets', 'menu'))
-		@list = Dir.entries(@files.first)
-		@subsetList= @list.select {|img| img.include? 'png'}
-		@menuImg = @subsetList.first
+	end
+
+	def authorize_instagram
+		redirect_to authorization_url
+	end
+
+	def gallery
 	end
 
 	def upload
-		  uploaded_io = params[:picture]
-		  File.open(Rails.root.join('app/assets', 'menu', uploaded_io.original_filename), 'wb') do |file|
-		    file.write(uploaded_io.read)
-	  	end
+		#Takes the params from file opens file and writes it to menu folder in the asset pipeline
+		uploaded_io = params[:picture]
+		upload_file uploaded_io
 	  	flash[:success] = "New Menu Image Uploaded"
-	  	redirect_to login_path
+	  	render login_path
 	end
 end

@@ -8,6 +8,7 @@ Rails.application.routes.draw do
   get 'updatemenu', to: 'static_pages#updatemenu'
   post 'updatemenu', to: 'static_pages#upload'
   get 'menu' , to: 'static_pages#menu'
+  get 'authorize', to: 'static_pages#authorize_instagram'
 
   get 'signup', to: 'users#new', as: :signup
   post '/signup',  to: 'users#create'
