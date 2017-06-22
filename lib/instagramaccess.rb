@@ -19,6 +19,19 @@ class InstagramAccess
 		Net::HTTP.get(uri) 
 	end
 
+	def getMedia(id)
+		accessToken = "44305243.465bfb2.a901c6b9e97f4e7694295cf0450b6aa7"
+		uri = "https://api.instagram.com/v1/users/#{id}/media/recent/?access_token=#{accessToken}"
+	end
+
+	def searchUser(q)
+		accessToken = "44305243.465bfb2.a901c6b9e97f4e7694295cf0450b6aa7"
+		uri = URI.parse("https://api.instagram.com/v1/users/search?q=#{q}&access_token=#{accessToken}")
+		Net::HTTP.get(uri) 
+		res = Net::HTTP.get_response(uri)
+		puts res.body
+	end
+
 	def get_access_token
 	end
 end
