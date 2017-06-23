@@ -11,13 +11,13 @@ gem 'bootstrap-sass', '3.3.7'
 gem 'bcrypt', '3.1.11'
 
 # Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+gem 'sqlite3', '1.3.13'
 
 group :production do
   gem 'pg'
 end
 group :development, :test do
-  gem 'sqlite3'
+  gem 'sqlite3', '1.3.13'
 end
 
 # Use to load up environment variables
