@@ -1,58 +1,63 @@
-      <div class="container">
-          <div class="row">
-                      <hr class="visible-xs">
-  
-                  <div class="col-lg-12 text-center">
-                     <hr>
-                         <h2 class="brand-before">
-                          <small>Welcome to</small>
-                      </h2>
-                      <h1 class="brand-name">The Growling Rabbit</h1>
-                      <hr>
-                       <div class="address-bar" align="center"> Brunch: 8am - 3pm | Cookie & Coffee Hour: 3pm -4pm | Supper: 4pm -10pm 
+<head>
+        <meta charset="UTF-8">
+        <title>Restaurant</title>
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css" media="screen" type="text/css">
+        <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Playball' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/style-portfolio.css">
+        <link rel="stylesheet" href="css/picto-foundry-food.css" />
+        <link rel="stylesheet" href="css/jquery-ui.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="css/font-awesome.min.css" rel="stylesheet">
+        <link rel="icon" href="favicon-1.ico" type="image/x-icon">
+    </head>
 
-      </div>
-                      <div id="carousel-example-generic" class="carousel slide">
-      
+    <body>
 
-                          <!-- Wrapper for slides -->
-                          <div class="carousel-inner">
-                              <div class="item active">
-                                  <img class="img-responsive img-full"> 
-                                  <div class="video-container">
-                                    <img class="img-responsive img-full" src="https://instagram.ford1-1.fna.fbcdn.net/t51.2885-15/e35/19052176_487346431609204_1021733326278361088_n.jpg" alt="">
-                                  <div>
-                              </div>
-                          </div>
-                      </div>
+    
+ <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="row">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="#">The Growling Rabbit</a>
+                    </div>
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav main-nav  clear navbar-right ">
+                            <li><a class="navactive color_animation" href="#top">WELCOME</a></li>
+             <!--                <li><a class="color_animation" href="#story">ABOUT</a></li> -->
+                    <!--         <li><a class="color_animation" href="#menu">MENU</a></li> -->
+            <!--                 <li><a class="color_animation" href="#beer">BEER</a></li> -->
+                           <!--  <li><a class="color_animation" href="#bread">BREAD</a></li>
+                            <li><a class="color_animation" href="#featured">FEATURED</a></li>
+                            <li><a class="color_animation" href="#reservation">RESERVATION</a></li>
+                            <li><a class="color_animation" href="#contact">CONTACT</a></li>
+ -->                        </ul>
+                    </div><!-- /.navbar-collapse -->
+                </div>
+            </div><!-- /.container-fluid -->
+        </nav>
+
+        <div id="top" class="starter_container bg">
+            <div class="follow_container">
+                <div class="col-md-6 col-md-offset-3">
+                           <div id="fb-root"></div>
+                      <%=image_tag "https://res.cloudinary.com/grubhub/image/upload/w_400,h_300,f_auto,fl_lossy,q_80,c_fit/rif6awn9bze2s0ez6lrm" %>
+                      <h2 class="white second-title">5938 N. Broadway | Chicago, IL 60660 | 773.654.1444 </h2>
+                    <hr>
+                    <div class="fb-like" data-href="https://www.facebook.com/pages/The-Growling-Rabbit-a-cafe/190086097702427" data-layout="button_count" data-action="recommend" data-size="large" data-show-faces="true" data-share="true"></div>
               
-                  </div>
-              </div>
-          </div>
-      <footer>
-          <div class="container">
-              <div class="row">
-                  <div class="col-lg-12 text-center">
-                      <p>Copyright &copy; The Growling Rabbit 2017</p>
-                  </div>
-              </div>
-          </div>
-          <script>
-            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-            ga('create', 'UA-20234323-1', 'auto');
-            ga('send', 'pageview');
-          </script>
-      </footer>
-      </script 
-      <div id="fb-root"></div>
-      <script>(function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=399575120226034";
-        fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));</script>
+                </div>
+            </div>
+        </div>
+    </body>
