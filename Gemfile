@@ -9,6 +9,7 @@ end
 gem 'rails', '~> 5.1.1'
 gem 'bootstrap-sass', '3.3.7'
 gem 'bcrypt', '3.1.11'
+gem 'sqlite3'
 
 # Use to load up environment variables
 gem 'dotenv-rails', :groups => [:development, :test]
