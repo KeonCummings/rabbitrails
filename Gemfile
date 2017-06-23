@@ -10,15 +10,15 @@ gem 'rails', '~> 5.1.1'
 gem 'bootstrap-sass', '3.3.7'
 gem 'bcrypt', '3.1.11'
 
-# Use sqlite3 as the database for Active Record
-gem 'pg'
+# # Use sqlite3 as the database for Active Record
+# gem 'pg'
 
-# group :production do
-#   gem 'pg'
-# end
-# group :development, :test do
-#   gem 'sqlite3'
-# end
+group :production do
+  gem 'pg'
+end
+group :development, :test do
+  gem 'sqlite3'
+end
 
 # Use to load up environment variables
 gem 'dotenv-rails', :groups => [:development, :test]
