@@ -9,13 +9,19 @@ end
 gem 'rails', '~> 5.1.1'
 gem 'bootstrap-sass', '3.3.7'
 gem 'bcrypt', '3.1.11'
-gem 'sqlite3'
+
+group :production do
+  gem 'pg'
+end
+group :development, :test do
+  gem 'sqlite3'
+end
 
 # Use to load up environment variables
 gem 'dotenv-rails', :groups => [:development, :test]
 
 # Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+# gem 'sqlite3'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
