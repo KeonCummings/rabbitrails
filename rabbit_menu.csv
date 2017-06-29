@@ -1,0 +1,73 @@
+meal,meal_type,times_served,days_served,notes,price
+Sub house-made biscuit,substitutions,8AM to 3PM,Tuesday - Sunday,"On Saturday & Sunday we will stop seating for brunch at 2:30. omelets, & skillets are served with wheat or rye toast.",1
+sub house-made gluten-free focaccia,substitutions,8AM to 3PM,Tuesday - Sunday,,2.5
+Sub 2 pancakes for toast,substitutions,8AM to 3PM,Tuesday - Sunday,,2.5
+Sub waffles for toast,substitutions,8AM to 3PM,Tuesday - Sunday,,3.5
+Biscuits & Gravy              ,Eggs & Such,8AM to 3PM,Tuesday - Sunday,House-made buttermilk biscuits with house-made pork sausage or vegan patty. ,9.95
+Add egg - or - red-eye gravy ,Eggs & Such,8AM to 3PM,Tuesday - Sunday,,1 
+Biscuits & Gravy              ,Eggs & Such,8AM to 3PM,Tuesday - Sunday,House-made buttermilk biscuits with house-made pork sausage or vegan patty. ,9.95
+Add egg - or - red-eye gravy ,Eggs & Such,8AM to 3PM,Tuesday - Sunday,,1 
+Breakfast Platter         ,Eggs & Such,8AM to 3PM,Tuesday - Sunday,"2 eggs cooked any style, herbed potatoes, toast, & choice of bacon, sausage, or vegan patty. ",9.95
+Huevos Juan  (wf)             ,Eggs & Such,8AM to 3PM,Tuesday - Sunday,"  2 corn tortillas with over easy eggs, house-made chorizo, guacamole, pico de gallo, cheddar cheese, and a side of beans",9.95
+Egg & cheddar cheese      ,Breakfast Sandwiches,8AM to 3PM,Tuesday - Sunday,Served on soft ciabatta,8.95
+The Californian               ,Breakfast Sandwiches,8AM to 3PM,Tuesday - Sunday," A mini omelet style egg filled with sauteed spinach, guacamole, fresh tomato & pepper jack cheese.",9.95
+Breakfast burrito           ,Burritos,8AM to 3PM,Tuesday - Sunday,"Scrambled eggs, beans, pico de gallo, guacamole, & cheddar cheese  wrapped in a flour tortilla.",9.95
+tijuana burrito               ,Burritos,8AM to 3PM,Tuesday - Sunday,"Scrambled eggs, chorizo, potatoes, poblano peppers, onions, pepper jack & cheddar cheese, in a flour tortilla with a side of cilantro lime cream.",9.95
+Vegan burrito  (v)            ,Burritos,8AM to 3PM,Tuesday - Sunday,"  Spicy tofu and sweet potato mix, beans, pico de gallo, guacamole and spinach in a flour tortilla. ",9.95
+Breakfast Tacos             ,Tacos ,8AM to 3PM,Tuesday - Sunday,"3 corn tortillas filled with scrambled eggs, pico de gallo, guacamole & cheddar cheese. Served with a side of beans",10.95
+Vegan Tacos  (v)              ,Tacos ,8AM to 3PM,Tuesday - Sunday,"3 corn tortillas filled with spicy tofu and sweet potato mix, pico de gallo, guacamole and spinach. Served with a side of beans",10.95
+Denver (omelet or skillet)     ,Omelets & Skillets,8AM to 3PM,Tuesday - Sunday,"served with toast & potatoes  ham, red bell peppers, onions, & swiss cheese. ",11.95
+Chorizo (omelet or skillet)   ,Omelets & Skillets,8AM to 3PM,Tuesday - Sunday,House-made chorizo & cheddar cheese with pico de gallo & guacamole.  Sub vegetarian chorizo no charge.,11.95
+Veggie (omelet or skillet)      ,Omelets & Skillets,8AM to 3PM,Tuesday - Sunday,"Mushroom, onion, red bell peppers, spinach & provolone cheese. ",11.95
+Provence (omelet or skillet)  ,Omelets & Skillets,8AM to 3PM,Tuesday - Sunday,"Tarragon, spinach, onions, zucchini, and Brie cheese.  ",11.95
+Hangover skillet             ,Omelets & Skillets,8AM to 3PM,Tuesday - Sunday," Potatoes, red-eye gravy with bacon & sausage, cheddar cheese and 2 eggs any style. ",11.95
+Vegan skillet (v) (wf)       ,Omelets & Skillets,8AM to 3PM,Tuesday - Sunday," Potatoes, seasoned tofu, mushrooms, sun dried tomatoes, onions, and red bell peppers.                 Add egg - or - cheese $1   ",10.95
+Funky skillet (wf)             ,Omelets & Skillets,8AM to 3PM,Tuesday - Sunday," Seasoned deli turkey, sundried tomatoes, onions, peppers and swiss cheese over sweet potatoes, topped with guacamole and 2 eggs any style. ",11.95
+type_description,Bombwiches,8AM to 3PM,Tuesday - Sunday,A Growling Rabbit Original served on a pretzel bun with our potatoes.,#VALUE!
+Pork Carnitas               ,Bombwiches,8AM to 3PM,Tuesday - Sunday,"Slow roasted pork carnitas smothered in chipotle espresso sauce, Mexican cheese, pico de gallo, guacamole and a fried egg.",13.25
+Three Little Pigs           ,Bombwiches,8AM to 3PM,Tuesday - Sunday,"A layer of ham, breakfast sausage and bacon piled high with Swiss cheese, layered into an omelet style egg.",13.25
+Cuban                        ,Bombwiches,8AM to 3PM,Tuesday - Sunday,"Ham, mojo pork, Swiss cheese, house-made pickles, mustard and a fried egg.",13.25
+Bomb mi                      ,Bombwiches,8AM to 3PM,Tuesday - Sunday,"Hoisin glazed shredded pork or tofu, fresh jalapenos, house-made pickled daikon & carrots, pickles, fresh cilantro, sriracha and a fried egg.  ",13.25
+The Rabbit’s BLT2           ,Bombwiches,8AM to 3PM,Tuesday - Sunday," Loads of bacon, lettuce, tomato, turkey and guacamole on a pretzel bun with house-made ranch dressing.",13.25  
+Cantina Bomb (v)         ,Bombwiches,8AM to 3PM,Tuesday - Sunday,"2 house-made vegan patties, vegan cream cheese, pico de gallo and guacamole.  Add an egg for $1.00",13.25
+Buffalo (vegan upon request)  ,Bombwiches,8AM to 3PM,Tuesday - Sunday," Tofu or fried chicken spun in buffalo sauce, topped with cool cream cheese, carrots, lettuce on a pretzel bun.",13.25 
+type_description,sandwiches,8AM to 3PM,Tuesday - Sunday,Served with fries. Sub cup of soup or salad $1.50  Gluten-Free Focaccia $2.50,#VALUE!
+Turkey Gouda Chutney  ,sandwiches,8AM to 3PM,Tuesday - Sunday," Deli turkey paired with smoked Gouda, lettuce, tomato, mayo & onion chutney. Served on a pretzel roll. ",12.25
+Medi street Wrap (V)      ,sandwiches,8AM to 3PM,Tuesday - Sunday," Mediterranean style wrap with house-made vegan patty, hummus, olives, cucumbers, red onion, tomato, roasted red pepper sauce and greens. ",10.95  
+Sheridan Wrap               ,sandwiches,8AM to 3PM,Tuesday - Sunday," Turkey, bacon, swiss cheese, roasted red pepper sauce, tomato, red onions and greens in a flour tortilla. ",10.95 
+Oatmeal                      ,Lighter fare,8AM to 3PM,Tuesday - Sunday,House-made toasted oatmeal. Choose either mixed fruit or nutty pecan.  ,4.25
+Yogurt parfait             ,Lighter fare,8AM to 3PM,Tuesday - Sunday,"   Greek yogurt, honey, granola, blueberry compote.",7.95
+type_description,Soup & salads,8AM to 3PM,Tuesday - Sunday,"Served with a dinner roll. House-made dressings include: Balsamic Dijon, Creamy Ranch, Thousand Island, Oil & Vinegar",#VALUE!
+Big Salad (V)                 ,Soup & salads,8AM to 3PM,Tuesday - Sunday,All the veggies piled high with hummus.,10.95
+Rabbit’s Cobb              ,Soup & salads,8AM to 3PM,Tuesday - Sunday,"Diced turkey, crisp bacon, creamy guacamole, fresh tomatoes and cheddar cheese. Topped with a chopped egg",11.95
+type_description,Pancakes,8AM to 3PM,Tuesday - Sunday,Light and fluffy buttermilk pancakes topped with whipped sweet butter and pure maple syrup. ,#VALUE!
+Short Stack                     ,Pancakes,8AM to 3PM,Tuesday - Sunday,"  3 perfect pancakes,   add blueberry compote  $2.50, Chocolate chips stack $10.95",8.95
+Chocolate chips stack      ,Pancakes,8AM to 3PM,Tuesday - Sunday,,10.95
+Bacon & Dates                 ,Pancakes,8AM to 3PM,Tuesday - Sunday,"3 pancakes filled with crisp, salty bacon and sweet, chewy dates for a perfect pair. *No substitutions please",11.50
+type_description,Waffles,8AM to 3PM,Tuesday - Sunday,Add Crown bourbon barrel aged maple syrup for $3.50,#VALUE!
+Ham & Brie Wafflewich    ,Waffles,8AM to 3PM,Tuesday - Sunday,"Maple ham & creamy Brie sandwiched between 2 waffle halves, topped with sunny eggs. Sweet beer mustard included for dipping. Served with potatoes.",12.95
+Chicken & waffles           ,Waffles,8AM to 3PM,Tuesday - Sunday,House-made beer battered boneless chicken tenders paired with a sweet crisp waffle. Topped with whipped butter and served with pure maple syrup.,13.95
+Sticky Chicken               ,Waffles,8AM to 3PM,Tuesday - Sunday,House-made beer battered boneless chicken tenders tossed in a sticky maple mustard glaze set atop a jalapeno cheddar corn bread waffle. Topped with whipped butter and served with pure maple syrup.,14.95
+Breakfast scramble       ,Kits’ menu,8AM to 3PM,Tuesday - Sunday,"  Scrambled eggs, served with a side of potatoes, toast and choice of bacon, sausage or veggie patty. ",4.95
+Grilled Cheese                ,Kits’ menu,8AM to 3PM,Tuesday - Sunday,  Cheddar cheese on toasted sesame bread.  Add meat for $2.50. Includes fries,3.95
+Bunny Pancake               ,Kits’ menu,8AM to 3PM,Tuesday - Sunday,"  A buttermilk pancake served with maple syrup, apple slices, and meat of choice.  ",4.95
+Waffle Platter              ,Kits’ menu,8AM to 3PM,Tuesday - Sunday,"  2 waffle bites, 1 egg scrambled and a choice of meat. ",4.95
+chicken Tenders             ,Kits’ menu,8AM to 3PM,Tuesday - Sunday,   4 breaded bonless chicken nuggets served with ketchup for dipping. Includes fries,5.95
+"Bacon, sausage, ham or chorizo ",Add-ons ,8AM to 3PM,Tuesday - Sunday,,2.50
+Vegan chorizo or vegan patty  ,Add-ons ,8AM to 3PM,Tuesday - Sunday,,2.50 
+"Guacamole, cheese, pico de gallo, additional egg ",Add-ons ,8AM to 3PM,Tuesday - Sunday,,1
+Sour cream  ,Add-ons ,8AM to 3PM,Tuesday - Sunday,,.50 
+Egg whites available at no additional charge,Add-ons ,8AM to 3PM,Tuesday - Sunday,,#VALUE!
+4 strips of Bacon ,Sides,8AM to 3PM,Tuesday - Sunday,,4.95
+2 Sausage patties ,Sides,8AM to 3PM,Tuesday - Sunday,,3.95
+Ham ,Sides,8AM to 3PM,Tuesday - Sunday,,3.95
+2 vegan patties ,Sides,8AM to 3PM,Tuesday - Sunday,,3.95
+Potatoes (v) (WF) ,Sides,8AM to 3PM,Tuesday - Sunday,,3.95 
+2 eggs ala carte ,Sides,8AM to 3PM,Tuesday - Sunday,,2.95
+disclaimer_one,disclaimer_one,8AM to 3PM,Tuesday - Sunday,(v) Vegan      (WF) Wheat-Free      Please ask if you need us to accommodate a dish and make it wheat-free and/or vegan.,#VALUE!
+Bakery: Kelly Beaudoin,Staff,8AM to 3PM,Tuesday - Sunday,,#VALUE!
+coffee: Jordan Reinhardt,Staff,8AM to 3PM,Tuesday - Sunday,,#VALUE!
+Kitchen: Jen Swanteck,Staff,8AM to 3PM,Tuesday - Sunday,,#VALUE!
+Owner: Laura Soncrant,Staff,8AM to 3PM,Tuesday - Sunday,,#VALUE!
+disclaimer_two,disclaimer_two,8AM to 3PM,Tuesday - Sunday,"We make the majority of our sauces, dressings, chutneys, marinades, jams & sausages in house. Please be aware ingredients may vary. Please tell your server if you have any allergies.",#VALUE!
+disclaimer_three,disclaimer_three,8AM to 3PM,Tuesday - Sunday,"Notice: The consumption of raw Or under cooked eggs, meat, poultry, seafood or shellfish may increase your risk of food-borne illness. Egg whites available at no additional charge",#VALUE!

@@ -8,12 +8,11 @@ Rails.application.routes.draw do
   get 'index', to: 'static_pages#index'
   get 'updatemenu', to: 'static_pages#updatemenu'
   post 'updatemenu', to: 'static_pages#upload'
-  get 'menu' , to: 'static_pages#menu'
   get 'authorize', to: 'static_pages#authorize_instagram'
 
   get 'signup', to: 'users#new', as: :signup
   post '/signup',  to: 'users#create'
   get 'login', to: 'sessions#new', as: :login
   resources :users
-
+  resources :menus
 end

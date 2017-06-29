@@ -23,6 +23,7 @@ end
 # Use to load up environment variables
 gem 'dotenv-rails', :groups => [:development, :test]
 
+gem 'rake'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
